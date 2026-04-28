@@ -1,4 +1,4 @@
-# Aula loop While 
+# Aula loop WHILE
 
 
 ## Introdução
